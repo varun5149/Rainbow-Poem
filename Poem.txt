@@ -1,1 +1,4 @@
-
+Red
+Green
+Violet
+These are the colours present in a rainbow
